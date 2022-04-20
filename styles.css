@@ -1,0 +1,25 @@
+h1 {
+    color: crimson;
+    text-align: center;
+}
+
+* {
+    background-color: antiquewhite;
+}
+
+img {
+    height: auto;
+    width: 300px;
+
+    display: block;
+    margin: 0 auto;
+}
+
+.bottomLine {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+}
